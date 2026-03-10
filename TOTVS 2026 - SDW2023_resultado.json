@@ -1,0 +1,67 @@
+[
+  {
+    "UserID": 1,
+    "Nome": "Naruto",
+    "Saldo": 1500.0,
+    "Limite": 2000.0,
+    "Agencia": 1,
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Naruto, seu saldo está crescendo — hora de diversificar e ir além da poupança!"
+      }
+    ]
+  },
+  {
+    "UserID": 2,
+    "Nome": "Hinata",
+    "Saldo": 320.5,
+    "Limite": 500.0,
+    "Agencia": 1,
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Hinata, investir R$ 50 por mês já faz diferença no longo prazo. Comece agora!"
+      }
+    ]
+  },
+  {
+    "UserID": 3,
+    "Nome": "Sasuke",
+    "Saldo": 8750.0,
+    "Limite": 10000.0,
+    "Agencia": 2,
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Sasuke, investidores premium fazem o dinheiro trabalhar 24h. Que tal o próximo nível?"
+      }
+    ]
+  },
+  {
+    "UserID": 4,
+    "Nome": "Sakura",
+    "Saldo": 220.0,
+    "Limite": 1000.0,
+    "Agencia": 2,
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Sakura, seu futuro financeiro começa com uma pequena decisão hoje. Invista!"
+      }
+    ]
+  },
+  {
+    "UserID": 5,
+    "Nome": "Kakashi",
+    "Saldo": 15000.0,
+    "Limite": 20000.0,
+    "Agencia": 3,
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Kakashi, investidores premium fazem o dinheiro trabalhar 24h. Que tal o próximo nível?"
+      }
+    ]
+  }
+]
